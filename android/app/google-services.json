@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314486474646",
+    "project_id": "latihan-notification-98919",
+    "storage_bucket": "latihan-notification-98919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314486474646:android:1517097a3d38f582513fb7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ZekN0n8i8FDsojxdqwL6axkmoD7LYuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
