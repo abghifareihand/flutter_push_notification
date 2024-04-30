@@ -1,6 +1,8 @@
 ## Flutter Push Notification
 
-<img src="https://i.ibb.co/LdnKW5V/photo-6163449014209592953-y.jpg" width="300"/>
+<img src="https://i.ibb.co/fdW8PXq/photo-notif-1.jpg" width="300"/>
+<img src="https://i.ibb.co/WvG002s/photo-notif-2.jpg" width="300"/>
+
 
 ### Package :
 
